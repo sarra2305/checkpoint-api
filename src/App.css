@@ -1,0 +1,17 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.App h1 {
+   padding: 20px 50px;
+   margin:20px 0px 40px 0px;
+   color:rgb(255, 255, 255);
+ background-color: rgb(226, 196, 210);
+   border-radius: 25px;
+ }
+
